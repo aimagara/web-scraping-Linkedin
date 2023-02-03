@@ -1,5 +1,5 @@
  # Web scraping jobs on Linkedin
- The code web scrapes jobs posted on linkedin. It focuses on jobs as "Data Analyst" in Vienna over the past month. 
+ The code web scrapes jobs as "Data Analyst" in Vienna over the past month. 
 
 It retrieves five pieces of information:
 - Title
@@ -8,5 +8,5 @@ It retrieves five pieces of information:
 - Date
 - URL
 
-I use the libraries ```requests``` and ```BeautifulSoup```.
+The code uses the libraries ```requests``` and ```BeautifulSoup```.
 
